@@ -19,3 +19,5 @@ TikTok: @lividtechnology
 
 * 0.1
     * Initial Release
+* 0.2
+    * ESP32 x SSD1306 branch created 
