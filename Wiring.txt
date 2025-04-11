@@ -1,0 +1,7 @@
+How to connect the ESP32 to the SSD1306 display in micropython:
+1. Wire the esp:3V3 pin to the oled:VCC
+2. Wire the esp:GND.2 pin to the oled:GND
+3. Wire the esp:22 pin to the oled:SCL
+4. Wire the esp:21 pin to the oled:SDA
+5. Create a new file for the ESP32, name it "ssd1306.py" and paste in the code from "ssd1306.py" in "ESP32 x SSD1306"
+6. Your done! Now you can program it however you want.
