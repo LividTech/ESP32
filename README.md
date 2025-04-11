@@ -23,15 +23,17 @@ TikTok: @lividtechnology
     * ESP32 x SSD1306 branch created 
 * 0.3
     * “README.md” duplicated to branch:“ESP32 x SSD1306”
-*0.4
+* 0.4
     * “Wiring.txt” created in branch:”ESP32 x SSD1306”
-*0.5
+* 0.5
     * “ssd1306.py” created in branch:”ESP32 x SSD1306”
-*0.6
+* 0.6
     * “README.md” removed from branch:”ESP32 x SSD1306”
-*0.7
+* 0.7
     * “README.md” updated in branch:”main”
-*0.8
+* 0.8
     * “README.md” updated in branch:”main”
-*0.9
+* 0.9
+    * “README.md” updated in branch:”main”
+* 1.0
     * “README.md” updated in branch:”main”
